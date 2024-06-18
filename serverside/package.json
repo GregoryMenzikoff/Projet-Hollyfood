@@ -1,0 +1,36 @@
+{
+  "type": "module",
+  "name": "serverside",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index",
+    "dev": "nodemon index.js"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "node-dev": "^8.0.0",
+    "nodemailer": "^6.9.13",
+    "nodemon": "^3.1.0",
+    "pg": "^8.11.5",
+    "react": "^18.3.1",
+    "sequelize": "^6.37.3",
+    "slugify": "^1.6.6",
+    "uuid": "^9.0.1",
+    "validator": "^13.11.0"
+  }
+}

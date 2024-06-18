@@ -1,0 +1,1 @@
+Hollyfood est un concept de site internet à la confluence de l'univers cinématographique et de l’univers culinaire. Il vous propose de découvrir et redécouvrir les recettes des plats qui vous ont fait saliver sur grand et petit écran.

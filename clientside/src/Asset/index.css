@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+h1 { color: blue;
+}
+
+input {
+    border: 1px solid black;
+    margin: 1rem;
+}
